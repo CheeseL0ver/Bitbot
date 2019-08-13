@@ -2,4 +2,4 @@ __pycache__/
 *.swp
 callback.json
 callback2.json
-env
+.env
