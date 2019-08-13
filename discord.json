@@ -1,0 +1,14 @@
+{
+	"username":"Bitbot Repo Watch",
+  "tts": false,
+  "embeds": [{
+    "title": "View commit on Bitbucket",
+    "description": "",
+    "url":"",
+   "image":{"url":""},
+    "author":{
+    	"name":"",
+    	"icon_url":"https://wac-cdn.atlassian.com/dam/jcr:89e146b4-642e-41fc-8e65-7848337d7bdd/atlassian_charlie_square.png"
+    }
+    }]
+}

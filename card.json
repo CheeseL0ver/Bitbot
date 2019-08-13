@@ -1,0 +1,63 @@
+{
+   "cards": [
+      {
+         "header": {
+            "title": "BitBot Repo Watch",
+            "subtitle": "Real-time Repo Push Alerts",
+            "imageUrl": "https://www.iconfinder.com/icons/3099458/download/png/128"
+         },
+         "sections": [
+            {
+               "widgets": [
+                  {
+                     "keyValue": {
+                        "topLabel": "Commit Author",
+                        "content": ""
+                     }
+                  },
+                  {
+                     "keyValue": {
+                        "topLabel": "Repo Name",
+                        "content": ""
+                     }
+                  },
+                  {
+                     "image": {
+                        "imageUrl": ""
+                     }
+                  }
+               ]
+            },
+            {
+               "header": "Commit Message",
+               "widgets": [
+                  {
+                     "textParagraph": {
+                        "text": "YEET"
+                     }
+                  }
+               ]
+            },
+            {
+               "widgets": [
+                  {
+                     "buttons": [
+                        {
+                           "textButton": {
+                              "text": "View Commit on Bitbucket",
+                              "onClick": {
+                                 "openLink": {
+                                    "url": ""
+                                 }
+                              }
+                           }
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      }
+   ]
+}
+

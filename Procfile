@@ -1,0 +1,1 @@
+web: gunicorn Bitbot:app --log-file=-
