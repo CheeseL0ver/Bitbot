@@ -1,0 +1,18 @@
+{
+  "name": "Bitbot",
+  "description": "A Python based alert bot for source code pushes.",
+  "repository": "https://github.com/CheeseL0ver/Bitbot",
+  "keywords": ["python", "requests", "heroku", "Bitbucket"],
+  "env": {
+    "DISCORD_CHANNEL_WEBHOOK": {
+      "description": "This is the webhook URL for the bot you created inside of your Discord channel.",
+      "value": "",
+      "required": false
+    },
+    "GOOGLE_CHAT_WEBHOOK": {
+      "description": "This is the webhook URL for the bot you created inside of your Google Chat channel.",
+      "value": "",
+      "required": false
+    }
+  }
+}
